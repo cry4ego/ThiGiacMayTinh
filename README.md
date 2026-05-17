@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-    <img src="https://i.imgur.com/aIojfPW.png" width="320" height="320">
+  
     <br>
     <a href="https://discord.gg/p6jjud5"> <img src="https://img.shields.io/discord/454006273751515152.svg"></a>
     &nbsp;
