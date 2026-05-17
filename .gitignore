@@ -23,3 +23,9 @@
 
 /Assets/ExportedAssets/
 /Assets/ExportedAssets.meta
+
+# Python
+venv/
+*.task
+__pycache__/
+*.pyc
